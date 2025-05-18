@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/537cf316-5e4a-4e26-a272-2418509076d3
+
+
 # STOMP-Kafka 채팅 애플리케이션
 
 이 프로젝트는 Spring Boot, STOMP(Simple Text Oriented Messaging Protocol)와 Apache Kafka를 사용하여 구현된 실시간 채팅 애플리케이션입니다. 
